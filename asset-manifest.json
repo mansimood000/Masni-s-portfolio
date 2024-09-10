@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2419711a.css",
+    "main.js": "/static/js/main.a5431513.js",
+    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/animation.jpg": "/static/media/animation.f07d585a1ad5bf850f50.jpg",
+    "static/media/Me.jpg": "/static/media/Me.815b24dcc8ec364a23fc.jpg",
+    "static/media/Code.jpg": "/static/media/Code.f41661a677cba478e60a.jpg",
+    "static/media/Dance.jpg": "/static/media/Dance.c7c9286d4b9bcc375b2b.jpg",
+    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "index.html": "/index.html",
+    "main.2419711a.css.map": "/static/css/main.2419711a.css.map",
+    "main.a5431513.js.map": "/static/js/main.a5431513.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2419711a.css",
+    "static/js/main.a5431513.js"
+  ]
+}
